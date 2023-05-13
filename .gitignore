@@ -1,0 +1,7 @@
+# Ambiente virtual
+project_venv/
+env_l/
+
+# Arquivo ocultos
+.ipynb_checkpoints
+.env
