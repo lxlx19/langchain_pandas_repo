@@ -1,0 +1,14 @@
+# Bibliotecas de AI
+langchain==0.0.167 		# Processamento de linguagem natural 
+openai==0.27.6 			# Interage com a plataforma OpenAI
+# Bibliotecas de  Data Analysis
+pandas==2.0.1 			# Análise de dados
+numpy==1.24.3 			# Computação numérica
+matplotlib==3.7.1 		# Visualização de dados
+ipykernel==6.23.0		# Núcleo do IPython para execução de kernels Python em Jupyter
+ipython==8.13.2     	# Ambiente interativo avançado
+jupyterlab==3.6.3   	# Ambiente de desenvolvimento interativo baseado em notebooks
+notebook==6.5.4     	# Interface web para edição e execução de notebooks Jupyter
+tabulate==0.9.0 		# Formatar dados tabulares
+# Biblioteca para ler Variavel de ambiente
+python-dotenv==1.0.0 	# Carregar variáveis de ambiente de um arquivo .env
