@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+# Criar um dataframe com 10000 linhas
 data = pd.DataFrame(
     {
         "icecream_flavor": np.random.choice(
@@ -27,7 +28,7 @@ data = pd.DataFrame(
                 "São Paulo",
                 "Campinas",
                 "Barueri",
-                "Osasco"
+                "Ribeirão Pires"
             ], 10000,
         ),
     }
