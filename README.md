@@ -19,6 +19,8 @@ pip install -r requirements.tx
 
 ## Links
 [Langchain Docs](https://python.langchain.com/en/latest/index.html)
+
 [Pandas in Langchain](https://python.langchain.com/en/latest/modules/agents/toolkits/examples/pandas.html)
+
 [OpenAI API KEY](https://openai.com/blog/openai-api)
 #
